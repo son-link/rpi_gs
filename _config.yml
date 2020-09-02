@@ -1,1 +1,2 @@
 include: ['repo']
+theme: jekyll-theme-cayman
