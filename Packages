@@ -1,0 +1,18 @@
+Package: quake3e-server
+Source: quake3e-server
+Version: 2020.08.08
+Architecture: armhf
+Maintainer: Kosala Herath <kosala@wso2.com>
+Installed-Size: 664
+Filename: ./quake3e-server-debian-armhf-2020.08.08.deb
+Size: 252420
+MD5sum: ee3ff9d44ccd4bead1b123b8bd84cfed
+SHA1: dc9e57052cd06121700929d1dadee922ee9f26db
+SHA256: 7fde85ee1e5e67d6fb9b8b88233aed50186fa883b07e93d4ffeb351b0c9292ff
+Section: x11
+Priority: optional
+Homepage: https://wso2.com/api-management/
+Description: Quake 3 Server
+ This is a modern Quake III Arena engine aimed to be fast, secure and compatible with all existing Q3A mods. It is based on last non-SDL source dump of ioquake3 with latest upstream fixes applied.
+ For execute the server you need the original Quake III Arena (from a CD, Steam, Bethesda or GoG) and copy baseq3 folder to ~/.q3a
+
